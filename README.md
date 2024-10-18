@@ -1,14 +1,26 @@
-# Projeto 
+# Projeto de Aprendizagem em React Native
 
-Projeto com enfase em aprendizagem de formulários e envio de dados utilizando React Native. Feito em aula sem auxilio do professor.
+Este é um projeto desenvolvido em React Native com ênfase na criação de formulários e no envio de dados. O projeto foi realizado durante uma aula, sem auxílio do professor.
 
+## Instalação
 
-Abra o arquivo App.js para começar a escrever algum código. Você pode visualizar as alterações diretamente em seu telefone ou tablet, digitalizando o código QR ou usando os emuladores iOS ou Android. Quando terminar, clique em Salvar e compartilhe o link!
+1. **Clone o repositório:**
 
-Quando estiver pronto para ver tudo o que o Expo oferece (ou se quiser usar seu próprio editor), você pode baixar seu projeto e usá-lo com expo cli).
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   cd <NOME_DA_PASTA>
+  ```
 
-Todos os projetos criados no Snack estão disponíveis publicamente, então você pode facilmente compartilhar o link deste projeto via link, ou incorporá-lo em uma página web com o botão <>.
+2. **Instale as dependências:**
 
-Se estiver com problemas, você pode twittar para nós @expo ou perguntar em nossos fóruns ou Discord.
+   ```bash
+   npm install
+  ```
 
-Snack é de código aberto. Você pode encontrar o código no repositório GitHub.
+3. **Inicie o projeto:**
+
+   ```bash
+   npm start
+  ```
+
+4. **Teste o projeto inserindo as informações!**
