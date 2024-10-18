@@ -6,7 +6,7 @@ Este é um projeto desenvolvido em React Native com ênfase na criação de form
 
 1. **Clone o repositório:**
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Ggiuntini/Projetinho-em-React-Native.git
 cd Projetinho-em-React-Native
 ```
 
