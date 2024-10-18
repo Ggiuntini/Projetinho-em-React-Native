@@ -5,22 +5,19 @@ Este é um projeto desenvolvido em React Native com ênfase na criação de form
 ## Instalação
 
 1. **Clone o repositório:**
-
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DA_PASTA>
-  ```
+```bash
+git clone <URL_DO_REPOSITORIO>
+cd Projetinho-em-React-Native
+```
 
 2. **Instale as dependências:**
-
-   ```bash
+```bash
    npm install
-  ```
+```
 
 3. **Inicie o projeto:**
-
-   ```bash
-   npm start
-  ```
+```bash
+npm start
+```
 
 4. **Teste o projeto inserindo as informações!**
